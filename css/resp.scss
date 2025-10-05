@@ -1,0 +1,16 @@
+@media (max-width: 1199px) {
+    .home{
+        .img-tilt::before{
+            content: '';
+            width: 301px;
+            height: 368px;
+        }
+        
+    }
+    .reds{
+        .progress-value {
+            left: 400px;
+        }
+    }
+  }
+// {} // $ // ! // () // &  
